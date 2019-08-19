@@ -1,0 +1,2 @@
+# 2020 Democratic Primary Fundraising Map
+An attempt at reproducing the analysis of the now infamous [detailed map of 2020 democratic primary donors](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html) from the New York Times.
